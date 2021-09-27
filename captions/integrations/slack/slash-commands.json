@@ -1,4 +1,5 @@
 {
+	"response_type": "in_channel",
 	"blocks": [
 		{
 			"type": "header",
