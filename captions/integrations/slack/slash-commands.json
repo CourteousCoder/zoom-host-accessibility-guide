@@ -18,7 +18,7 @@
 		{
 			"type": "section",
 			"text": {
-				"text": "1. Click <https://zoom.us/profile/setting?tab=meeting|this link> to go to your Zoom settings.\n2. Click the link to the _In Meeting (Advanced)_ section, or just scroll down.\n3. Under this section, enable *Closed captioning*.\n4. Under *Closed captioning*, make sure all the checkboxes are checked :ballot_box_with_check:.",
+				"text": "1. Click <https://zoom.us/profile/setting?tab=meeting|this link> to go to your Zoom settings, and log in if needed.\n2. Click the link to the _In Meeting (Advanced)_ section, or just scroll down.\n3. Under this section, enable *Closed captioning*.\n4. Under *Closed captioning*, make sure all the checkboxes are checked :ballot_box_with_check:.",
 				"type": "mrkdwn"
 			}
 		},
