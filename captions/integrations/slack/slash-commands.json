@@ -1,0 +1,41 @@
+{
+	"blocks": [
+		{
+			"type": "header",
+			"text": {
+				"text": "How to enable captions for Zoom participants:",
+				"type": "plain_text"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"text": "You need to change your Zoom settings so that participants can see captions in meetings you host.\n\nPlease follow these *one-time steps* before your next Zoom meeting:",
+				"type": "mrkdwn"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"text": "1. Click <https://zoom.us/profile/setting?tab=meeting|this link> to go to your Zoom settings.\n2. Click the link to the _In Meeting (Advanced)_ section, or just scroll down.\n3. Under this section, enable *Closed captioning*.\n4. Under *Closed captioning*, make sure all the checkboxes are checked :ballot_box_with_check:.",
+				"type": "mrkdwn"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"text": "That's it! If you're already in a meeting where captions are needed, then just leave the meeting, rejoin, and inform any participants who need captions.",
+				"type": "mrkdwn"
+			}
+		},
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": "Your settings should look something like this"
+			},
+			"image_url": "http://placekitten.com/500/500",
+			"alt_text": "Screenshot of enabled settings"
+		}
+	]
+}
